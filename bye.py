@@ -1,1 +1,1 @@
-print('bitch')
+print('bye')
